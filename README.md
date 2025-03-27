@@ -1,6 +1,4 @@
-Collecting workspace information# MITRE-ATT&CK-obsidian-markdown
-
-This repository implements a Python tool that parses the MITRE ATT&CK knowledge base into a markdown format optimized for the Obsidian note-taking application. The tool retrieves STIX 2.1 JSON data from MITRE's GitHub repository and transforms it into a network of interlinked markdown notes, making the entire ATT&CK framework browsable and searchable within Obsidian.
+# MITRE-ATT&CK-obsidian-markdown
 
 ## Overview
 
